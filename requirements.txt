@@ -1,0 +1,7 @@
+requests
+Flask
+google-generativeai
+python-docx
+celery
+redis
+psycopg2-binary
